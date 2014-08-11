@@ -1,8 +1,3 @@
-jekyll-json-generator
-=====================
-
-Simple Jekyll generator that generates json files from posts.
-
 # JSON Generator for Jekyll
 
 Jekyll plugin for generating an json from post content.
